@@ -9,7 +9,7 @@ predictions.
 
 ------------------------------------------------------------------------
 
-## 📌 Project Overview
+## Project Overview
 
 Modern analytics and machine learning systems depend heavily on
 consistent and reliable data. However, real-world datasets frequently
@@ -26,7 +26,7 @@ patterns using statistical and ML-based monitoring techniques.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives
+## Objectives
 
 -   Detect **distribution drift** between historical and incoming
     datasets
@@ -36,7 +36,7 @@ patterns using statistical and ML-based monitoring techniques.
 
 ------------------------------------------------------------------------
 
-## 🧠 Key Features
+## Key Features
 
 ✅ Distribution Drift Detection\
 ✅ Dataset Comparison Monitoring\
@@ -46,7 +46,7 @@ patterns using statistical and ML-based monitoring techniques.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
     ML-Based-Data-Quality-Drift-Monitoring/
     │
@@ -64,7 +64,7 @@ patterns using statistical and ML-based monitoring techniques.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 -   **Python**
 -   **Pandas & NumPy**
@@ -75,7 +75,7 @@ patterns using statistical and ML-based monitoring techniques.
 
 ------------------------------------------------------------------------
 
-## 🔍 Drift Detection Approach
+## Drift Detection Approach
 
 The framework compares a **reference dataset** (baseline data) with a
 **current dataset** using statistical tests to identify distribution
@@ -93,7 +93,7 @@ healthcare, and enterprise analytics systems.
 
 ------------------------------------------------------------------------
 
-## 📊 Notebooks Included
+## Notebooks Included
 
 ### 1️⃣ Iris Drift Detection
 
@@ -112,7 +112,7 @@ dataset metrics.
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Step 1 --- Clone Repository
 
@@ -137,13 +137,13 @@ Run any notebook to view drift monitoring results.
 
 ------------------------------------------------------------------------
 
-## Dashboards 📊
+## Dashboards
 
 ![](media/data-drift-demo.gif)
 ![](media/data-drift-demo-2.gif)
 ------------------------------------------------------------------------
 
-## 🏢 Industry Relevance
+## Industry Relevance
 
 This framework reflects real monitoring challenges faced in:
 
@@ -157,7 +157,7 @@ reliability before deploying analytics and ML models.
 
 ------------------------------------------------------------------------
 
-## 📌 Future Improvements
+## Future Improvements
 
 -   Automated alerting system integration
 -   Azure Monitor logging integration
@@ -166,7 +166,7 @@ reliability before deploying analytics and ML models.
 
 ------------------------------------------------------------------------
 
-## 🙌 Acknowledgement
+## Acknowledgement
 
 This project is inspired by open-source data drift monitoring concepts
 and modern ML observability practices.
